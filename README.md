@@ -19,8 +19,8 @@
 <h2> 🤔 Fun Facts:</h2>
 
 - My favorite anime is One Piece
-- My favorite UFC fighter is Charles Oliveira
-- Hobbies: anime, gym, UFC
+- My favorite UFC fighter is Charles Oliveira & Merab Dvalishvili
+- Hobbies: Martial Arts, UFC, Anime, Working out
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
